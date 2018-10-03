@@ -2,7 +2,7 @@
 
 ## What is trace_dest_ips?
 
-This is simple script for output all track 
+This is simple script for traceroute output of some destination ips in pacap file.
 
 ## pre requirements
 
